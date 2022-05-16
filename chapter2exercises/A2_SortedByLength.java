@@ -3,6 +3,7 @@ package chapter2exercises;
 // Те ж саме в зворотному порядку
 
 public class A2_SortedByLength {
+
     public static void sortByLengthUP(int[] ints) {
         String[] strings = new String[ints.length];
         for (int i = 0; i < ints.length; i++) {
