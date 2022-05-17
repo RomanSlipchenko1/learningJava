@@ -1,6 +1,7 @@
-import chapter2exercises.B9_Months;
+
 import chapter2exercises.C0_CreateMatrix;
 import chapter2exercises.C0_ShowMatrix;
+import chapter2exercises.C1_SortUpCurrentLineOrColumn;
 
 public class Main {
 
