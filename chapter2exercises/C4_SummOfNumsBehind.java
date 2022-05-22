@@ -5,7 +5,7 @@ package chapter2exercises;
 // 0 - додатнє число
 
 public class C4_SummOfNumsBehind {
-    public static void sumOfNumsBehind(int[][] matrix) {
+    public static int sumOfNumsBehind(int[][] matrix) {
         int result = 0;
         for (int line = 0; line < matrix.length; line++) {
             boolean indicator = false;
@@ -29,5 +29,6 @@ public class C4_SummOfNumsBehind {
             }
         }
         System.out.println("Сума елементів, розташованих між першим і другим додатнім елементами кожного рядка: " + result);
+        return result;
     }
 }
