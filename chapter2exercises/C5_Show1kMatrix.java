@@ -3,7 +3,6 @@ package chapter2exercises;
 // - зліва направо
 // - зверху вниз
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class C5_Show1kMatrix {
