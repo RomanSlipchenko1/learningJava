@@ -1,4 +1,3 @@
-import chapter2exercises.C6_RoundMatrixElements;
 
 public class Main {
 
